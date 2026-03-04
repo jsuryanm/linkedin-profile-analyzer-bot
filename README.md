@@ -1,4 +1,4 @@
-# LinkedIn Icebreaker Bot
+# LinkedIn Profile Analyser RAG Chatbot
 
 An **AI-powered LinkedIn profile analyzer and conversational assistant** built using **Retrieval-Augmented Generation (RAG)**.
 The application extracts LinkedIn profile data, converts it into embeddings, and uses a Large Language Model (LLM) to generate insights and answer questions about a person's career.
