@@ -9,7 +9,7 @@ The project demonstrates how to build a **RAG pipeline using LlamaIndex, Groq LL
 
 # Features
 
-* Extract LinkedIn profile data using **ProxyCurl API** or mock data
+* Extract LinkedIn profile data using **ProxyCurl API** or mock data (we will be using mock data in this project)
 * Convert profile information into **semantic embeddings**
 * Store embeddings in a **vector index**
 * Generate **interesting facts** about the person
